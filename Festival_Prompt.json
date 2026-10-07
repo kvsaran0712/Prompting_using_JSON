@@ -1,0 +1,32 @@
+{
+  "subject": "Traditional Bharatanatyam dancer",
+  "setting": "Thanjavur Brihadeeswara Temple courtyard",
+  "region": "Tamil Nadu",
+  "time_period": "Present day",
+  "time_of_day": "Margazhi early morning",
+  "lighting": "Soft golden sunrise light",
+  "camera": {
+    "shot_type": "Full body portrait",
+    "lens": "50mm",
+    "angle": "Eye level"
+  },
+  "palette": [
+    "Temple stone brown",
+    "Deep maroon",
+    "Gold",
+    "Warm orange"
+  ],
+  "style": "Photorealistic",
+  "aspect_ratio": "16:9",
+  "textile": "Kanchipuram silk sari",
+  "architecture": "Chola temple architecture",
+  "festival": "Margazhi cultural festival",
+  "avoid": [
+    "Western clothing",
+    "Modern city skyline",
+    "Neon lighting",
+    "Blurry image",
+    "Cartoon style",
+    "Generic Indian attire"
+  ]
+}
